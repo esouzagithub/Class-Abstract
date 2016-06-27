@@ -1,0 +1,11 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\PrjClassAbstract\PrjClassAbstract\bin\Debug\PrjClassAbstract.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\PrjClassAbstract\PrjClassAbstract\bin\Debug\PrjClassAbstract.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\PrjClassAbstract\PrjClassAbstract\bin\Debug\PrjClassAbstract.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\PrjClassAbstract\PrjClassAbstract\obj\Debug\PrjClassAbstract.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\PrjClassAbstract\PrjClassAbstract\obj\Debug\PrjClassAbstract.pdb
+E:\Poc\PrjClassAbstract\PrjClassAbstract\bin\Debug\PrjClassAbstract.exe.config
+E:\Poc\PrjClassAbstract\PrjClassAbstract\obj\Debug\PrjClassAbstract.exe
+E:\Poc\PrjClassAbstract\PrjClassAbstract\obj\Debug\PrjClassAbstract.pdb
+C:\Git\PrjClassAbstract\PrjClassAbstract\bin\Debug\PrjClassAbstract.exe.config
+C:\Git\PrjClassAbstract\PrjClassAbstract\obj\Debug\PrjClassAbstract.exe
+C:\Git\PrjClassAbstract\PrjClassAbstract\obj\Debug\PrjClassAbstract.pdb
